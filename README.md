@@ -49,11 +49,7 @@ This repository demonstrates advanced geospatial terrain analytics using Waikato
 - README file (this)
 - Optionally: Power BI dashboard or PDF export
 
-## Next Steps
 
-- Create Power BI dashboard using the exported CSVs and figures.
-- Review, polish, and publish GitHub repo ensuring all code runs cleanly and results are present.
-- Share GitHub link and dashboard preview with the interview panel; be prepared to discuss the technical steps, business relevance, and possible future extensions.
 
 ## Data resource
 
